@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 239, 220);
+}
+
+a {
+    padding: 0 50px;
+    font-style: unset;
+    font-size: x-large;
+    background-color:#b0b981;
+    color: black;
+    padding: 5px 4px;
+    text-decoration: none;
+    
+}
+a img {
+    text-decoration: none;
+
+}
+.início{
+    padding: 0 20px;
+    align-items: center;
+    display: inline-flex; 
+}
+.contaner{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+.menu{
+    padding: 0 50px;
+}
+.section {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+figure, figure img {
+    width: 500px;
+    height: 700px;
+}

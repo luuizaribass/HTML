@@ -1,0 +1,18 @@
+body{
+    height: 300vh
+}
+.contaner {
+    top: 20vh;
+    position: sticky;
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+}
+  
+.box{
+    top: 8vh;
+    position: sticky;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
